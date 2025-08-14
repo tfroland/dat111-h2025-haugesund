@@ -1,2 +1,4 @@
 # dat111-h2025-haugesund
-Repo for programfiler for DAT111, undervist i ved HVL campus Haugesund høsten 2025. 
+Programfiler for DAT111 undervist i Haugesund Høst 2025.
+
+Filene er delt opp i tilhørende moduler.
